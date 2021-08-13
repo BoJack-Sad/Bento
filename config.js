@@ -69,7 +69,7 @@ const CONFIG = {
       id: '6',
       name: 'Odysee',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
@@ -85,20 +85,20 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Flipkart',
+        link: 'https://www.flipkart.com/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Songs',
+        link: 'https://myfreemp3juices.cc/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Instagram',
+        link: 'https://www.instagram.com/',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Amazon',
+        link: 'https://www.amazon.in/',
       },
     ],
     secondList: [
@@ -107,16 +107,16 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Twitter',
+        link: 'https://twitter.com/home?lang=en-gb',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Gmail',
+        link: 'https://mail.google.com/mail/u/1/#inbox',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Whatsapp',
+        link: 'https://web.whatsapp.com/',
       },
     ],
   },
