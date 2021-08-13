@@ -45,7 +45,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'outlook.office.com/',
+      link: 'https://outlook.office.com/mail/inbox',
     },
     {
       id: '3',
